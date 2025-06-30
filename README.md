@@ -1,1 +1,1 @@
-## This project demonstrates working of a CI/CD pipeline with GitHub Actions
+## This project demonstrates working of a CI/CD pipeline with GitHub Actions 
